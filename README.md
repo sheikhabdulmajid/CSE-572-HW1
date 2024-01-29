@@ -1,2 +1,3 @@
 # CSE-572-HW1
-Problem 2
+
+Python code for CSE-572 HW1
