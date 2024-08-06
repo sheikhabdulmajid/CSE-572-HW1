@@ -1,3 +1,2 @@
-# CSE-572-Homework
+# Titanic Passengers Survival Analysis
 
-Python code for CSE-572 Assignments
